@@ -1,0 +1,13 @@
+I, [2021-03-21T19:17:55.109581 #17240]  INFO -- : Starting crawl of https://eyescience.com/
+I, [2021-03-21T19:17:55.109666 #17240]  INFO -- : https://eyescience.com/
+I, [2021-03-21T19:17:56.481378 #17240]  INFO -- : https://eyescience.com/#
+I, [2021-03-21T19:17:57.747533 #17240]  INFO -- : https://eyescience.com/#content
+I, [2021-03-21T19:17:58.968320 #17240]  INFO -- : https://eyescience.com/about/
+I, [2021-03-21T19:18:00.304272 #17240]  INFO -- : https://eyescience.com/author/chuzles/
+I, [2021-03-21T19:18:03.117564 #17240]  INFO -- : https://eyescience.com/cart/
+I, [2021-03-21T19:18:05.847474 #17240]  INFO -- : https://eyescience.com/contact/
+I, [2021-03-21T19:18:06.996004 #17240]  INFO -- : https://eyescience.com/doctors-lounge/
+I, [2021-03-21T19:18:08.295207 #17240]  INFO -- : https://eyescience.com/my-account/
+I, [2021-03-21T19:18:10.696078 #17240]  INFO -- : https://eyescience.com/products#eye-vitamins
+I, [2021-03-21T19:18:14.373126 #17240]  INFO -- : https://eyescience.com/products/
+I, [2021-03-21T19:18:15.769744 #17240]  INFO -- : https://eyescience.com/social-news/

@@ -1,0 +1,152 @@
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+Started GET "/sitemap" for 127.0.0.1 at 2021-03-23 11:28:24 +0530
+Processing by SitemapController#index as HTML
+Starting crawl of https://eyescience.com/
+https://eyescience.com/
+https://eyescience.com/#
+https://eyescience.com/#content
+https://eyescience.com/about/
+https://eyescience.com/author/chuzles/
+https://eyescience.com/cart/
+https://eyescience.com/contact/
+https://eyescience.com/doctors-lounge/
+https://eyescience.com/my-account/
+https://eyescience.com/products#eye-vitamins
+https://eyescience.com/products/
+https://eyescience.com/social-news/
+Completed 200 OK in 16862ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 47462)
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+Started GET "/sitemap" for 127.0.0.1 at 2021-03-23 11:28:53 +0530
+Processing by SitemapController#index as HTML
+Starting crawl of https://eyescience.com/
+https://eyescience.com/
+https://eyescience.com/#
+https://eyescience.com/#content
+https://eyescience.com/about/
+https://eyescience.com/author/chuzles/
+https://eyescience.com/cart/
+https://eyescience.com/contact/
+https://eyescience.com/doctors-lounge/
+https://eyescience.com/my-account/
+https://eyescience.com/products#eye-vitamins
+https://eyescience.com/products/
+https://eyescience.com/social-news/
+Completed 200 OK in 16037ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 47487)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+Started GET "/sitemap" for 127.0.0.1 at 2021-03-23 11:34:45 +0530
+Processing by SitemapController#index as HTML
+Starting crawl of https://eyescience.com/
+https://eyescience.com/
+https://eyescience.com/#
+https://eyescience.com/#content
+https://eyescience.com/about/
+https://eyescience.com/author/chuzles/
+https://eyescience.com/cart/
+https://eyescience.com/contact/
+https://eyescience.com/doctors-lounge/
+https://eyescience.com/my-account/
+https://eyescience.com/products#eye-vitamins
+https://eyescience.com/products/
+https://eyescience.com/social-news/
+Completed 200 OK in 16672ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 47417)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+Started GET "/sitemap" for 127.0.0.1 at 2021-03-23 11:35:44 +0530
+Processing by SitemapController#index as HTML
+Starting crawl of https://eyescience.com/
+https://eyescience.com/
+https://eyescience.com/#
+https://eyescience.com/#content
+https://eyescience.com/about/
+https://eyescience.com/author/chuzles/
+https://eyescience.com/cart/
+https://eyescience.com/contact/
+https://eyescience.com/doctors-lounge/
+https://eyescience.com/my-account/
+https://eyescience.com/products#eye-vitamins
+https://eyescience.com/products/
+https://eyescience.com/social-news/
+Completed 200 OK in 16072ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 47396)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+Started GET "/sitemap" for 127.0.0.1 at 2021-03-23 11:37:50 +0530
+Processing by SitemapController#index as HTML
+Starting crawl of https://eyescience.com/
+https://eyescience.com/
+https://eyescience.com/#
+https://eyescience.com/#content
+https://eyescience.com/about/
+https://eyescience.com/author/chuzles/
+https://eyescience.com/cart/
+https://eyescience.com/contact/
+https://eyescience.com/doctors-lounge/
+https://eyescience.com/my-account/
+https://eyescience.com/products#eye-vitamins
+https://eyescience.com/products/
+https://eyescience.com/social-news/
+Completed 200 OK in 16659ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 47428)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+Started GET "/sitemap" for 127.0.0.1 at 2021-03-23 11:38:31 +0530
+Processing by SitemapController#index as HTML
+Starting crawl of https://eyescience.com/
+https://eyescience.com/
+https://eyescience.com/#
+https://eyescience.com/#content
+https://eyescience.com/about/
+https://eyescience.com/author/chuzles/
+https://eyescience.com/cart/
+https://eyescience.com/contact/
+https://eyescience.com/doctors-lounge/
+https://eyescience.com/my-account/
+https://eyescience.com/products#eye-vitamins
+https://eyescience.com/products/
+https://eyescience.com/social-news/
+Completed 200 OK in 16261ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 47423)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+Started GET "/sitemap" for 127.0.0.1 at 2021-03-23 11:40:00 +0530
+Processing by SitemapController#index as HTML
+Starting crawl of https://eyescience.com/
+https://eyescience.com/
+https://eyescience.com/#
+https://eyescience.com/#content
+https://eyescience.com/about/
+https://eyescience.com/author/chuzles/
+https://eyescience.com/cart/
+https://eyescience.com/contact/
+https://eyescience.com/doctors-lounge/
+https://eyescience.com/my-account/
+https://eyescience.com/products#eye-vitamins
+https://eyescience.com/products/
+https://eyescience.com/social-news/
+Completed 200 OK in 17377ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 47397)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+Started GET "/sitemap" for 127.0.0.1 at 2021-03-23 11:41:34 +0530
+Processing by SitemapController#index as HTML
+Starting crawl of https://eyescience.com/
+https://eyescience.com/
+https://eyescience.com/#
+https://eyescience.com/#content
+https://eyescience.com/about/
+https://eyescience.com/author/chuzles/
+https://eyescience.com/cart/
+https://eyescience.com/contact/
+https://eyescience.com/doctors-lounge/
+https://eyescience.com/my-account/
+https://eyescience.com/products#eye-vitamins
+https://eyescience.com/products/
+https://eyescience.com/social-news/
+Completed 200 OK in 17277ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 47653)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
